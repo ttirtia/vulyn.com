@@ -1,0 +1,35 @@
+baseURL = "https://vulyn.com/"
+languageCode = "en-us"
+title = "Vulyn"
+theme = "hyde-hyde"
+license = "MIT"
+description = "Yet another blog about IT stuff"
+
+## Site Settings
+[params]
+    author = "Thibaut Tirtia"
+    title = "Vulyn"
+    description = "Yet another IT blog"
+    dateformat = "Jan 2, 2006"
+    highlightjs = true
+    highlightjsstyle = "github"
+
+## Social Accounts
+[params.social]
+    twitter = "ttirtia"
+    github = "ttirtia"
+    gitlab = "ttirtia"
+    linkedin = "ttirtia"
+    email = "ttirtia@vulyn.com"
+
+## Main Menu
+[[menu.main]]
+    name = "Posts"
+    weight = 100
+    identifier = "posts"
+    url = "/posts/"
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
