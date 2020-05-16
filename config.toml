@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Vulyn"
 theme = "hyde-hyde"
 license = "MIT"
-description = "Yet another blog about IT stuff"
+description = "Yet another IT blog"
 
 ## Site Settings
 [params]
