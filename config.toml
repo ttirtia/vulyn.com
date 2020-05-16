@@ -1,4 +1,4 @@
-baseURL = "https://vulyn.com/"
+baseURL = "https://vulyn.netlify.app/"
 languageCode = "en-us"
 title = "Vulyn"
 theme = "hyde-hyde"
